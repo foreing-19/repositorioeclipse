@@ -7,6 +7,7 @@ public class proyecto1 {
 	            producto=producto*num;
 	            System.out.println("los numeros impares son:"+producto);
 	            System.out.println("los numeros impares son:"+producto);
+	            System.out.println("los numeros impares son:"+producto);
 	}   
 	    }
 	    
